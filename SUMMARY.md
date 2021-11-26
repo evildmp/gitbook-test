@@ -10,3 +10,4 @@
 ## About the project
 
 * [How we started](about-the-project/how-we-started.md)
+* [A second page](about-the-project/another-page.md)
